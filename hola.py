@@ -10,7 +10,7 @@
       "sourceRoot": "src",
       "prefix": "app",
       "architect": {
-        "build": {
+        "build": {fr
           "builder": "@angular-devkit/build-angular:application",
           "options": {
             "outputPath": "dist/bibliotheque-manager",
